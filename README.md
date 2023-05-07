@@ -1,3 +1,3 @@
-# Issues For HITszOJ
-My personal issues for questions on HITsz OJ
-(Dont forget to star my repo after watching my code thx~)
+## HITsz（大一秋季学期）高级语言程序设计实验课
+# 代码均已通过OJ平台用例测试(Accepted)
+# 对于处理边界数据可能不够完善 欢迎指出交流
